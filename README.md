@@ -10,7 +10,7 @@
   - [License](#License)
   
   ## Installation
-- Go to https://github.com/AugustusMadden/MVC-Tech-blog
+- Go to https://github.com/AugustusMadden/MVC-Tech_blog
 - Press the green code button on the top-right.
 - Open Terminal/GitBash, and navigate to the space where you want the file to exist.
 - Use the command `git clone <url>` and download.
